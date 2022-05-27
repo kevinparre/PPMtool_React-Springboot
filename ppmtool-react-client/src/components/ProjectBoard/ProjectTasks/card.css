@@ -1,0 +1,12 @@
+
+        /* The heart of the matter */
+          
+        .horizontal-scrollable > .row {
+            overflow-x: auto;
+            white-space: nowrap;
+        }
+          
+        .horizontal-scrollable > .row > .col-md-4 {
+            display: inline-block;
+            float: none;
+        }
