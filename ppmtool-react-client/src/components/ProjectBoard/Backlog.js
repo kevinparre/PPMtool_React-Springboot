@@ -50,7 +50,7 @@ class Backlog extends Component {
       <th>
           <div className="col-md-4 col-lg-12">
             <div className="card text-center mb-4">
-              <div className="card-header bg-secondary text-white">
+              <div className="card-header bg-info text-white">
                 <h3>Planning</h3>
               </div>
             </div>
@@ -59,10 +59,9 @@ class Backlog extends Component {
           </div>
           </th>
           <th>
-          
           <div className="col-md-4 col-lg-12">
             <div className="card text-center mb-4">
-              <div className="card-header bg-primary text-white">
+              <div className="card-header bg-info text-white">
                 <h3>Designing</h3>
               </div>
             </div>
@@ -72,7 +71,7 @@ class Backlog extends Component {
           <th>
           <div className="col-md-4 col-lg-12">
             <div className="card text-center mb-2">
-              <div className="card-header bg-success text-white">
+              <div className="card-header bg-info text-white">
                 <h3>Developing</h3>
               </div>
             </div>
@@ -82,7 +81,7 @@ class Backlog extends Component {
       <th>
           <div className="col-md-4 col-lg-12">
             <div className="card text-center mb-2">
-              <div className="card-header bg-success text-white">
+              <div className="card-header bg-info text-white">
                 <h3>Testing</h3>
               </div>
             </div>
@@ -90,10 +89,9 @@ class Backlog extends Component {
           </div>
 </th>
 <th>
-
           <div className="col-md-4 col-lg-12">
             <div className="card text-center mb-2">
-              <div className="card-header bg-success text-white">
+              <div className="card-header bg-info text-white">
                 <h3>Deploying</h3>
               </div>
             </div>

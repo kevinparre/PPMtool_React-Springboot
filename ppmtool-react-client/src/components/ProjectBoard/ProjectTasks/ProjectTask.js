@@ -24,7 +24,7 @@ class ProjectTask extends Component {
     }
 
     if (project_task.priority === 3) {
-      priorityClass = "bg-info text-light";
+      priorityClass = "bg-secondary text-light";
       priorityString = "LOW";
     }
 
